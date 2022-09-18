@@ -8,6 +8,9 @@
 import SwiftUI
 import CoreLocationUI
 
+import SwiftUI
+import CoreLocationUI
+
 struct WelcomeView: View {
     @EnvironmentObject var locationManager: LocationManager
 
